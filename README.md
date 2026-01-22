@@ -244,6 +244,6 @@ Probability score is also displayed to show confidence in prediction.
 ---
 #### Live Demo: https://lnkd.in/gmYXyUHd
 ---
-## 👤 Author
+### 👤 Author
 **Ankit Gupta**  
-AI/ML & Data Science Enthusitic
+AIML & Data Science Enthusitic
