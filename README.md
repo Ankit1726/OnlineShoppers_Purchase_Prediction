@@ -242,8 +242,8 @@ Probability score is also displayed to show confidence in prediction.
 - Cloud deployment (Streamlit Cloud / AWS)
 
 ---
-
+Live Demo: https://lnkd.in/gmYXyUHd
+---
 ## 👤 Author
-
 **Ankit Gupta**  
-AI/ML & Data Science Enthusi
+AI/ML & Data Science Enthusitic
